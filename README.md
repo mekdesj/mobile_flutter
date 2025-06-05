@@ -5,7 +5,7 @@ A sleek, simple task manager app built with Flutter.
 ## Features
 
 - Add, delete, and complete tasks
-- Filter tasks (All, Completed, Pending)
+- Filter tasks with the icon at the top-right corner (All, Completed, Pending)
 - Clean and modern UI with Flutter Material Design
 
 
